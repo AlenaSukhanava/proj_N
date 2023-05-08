@@ -1,2 +1,3 @@
-let a = 10;
+
 let r = 456789
+console.log(a)
